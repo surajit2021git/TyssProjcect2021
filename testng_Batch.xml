@@ -5,7 +5,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testScripts.AddingProductCart"/>
-      <class name="testScripts.TestingPageFacebooklink"/>
+      
       <class name="testScripts.TakeTheCourseTest"/>
     </classes>
   </test> <!-- Test -->
